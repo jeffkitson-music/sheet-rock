@@ -11,7 +11,13 @@ This script creates playlists based on multiple columns of a CSV file. Originall
 ## :open_book: Sources
 Covach, J. R., &amp; Flory, A. (2022). [What's that sound?: An Introduction To Rock and Its History](https://wwnorton.com/books/9780393872453). W.W. Norton &amp; Company. 
 
-**Note**: Chapter titles, tracks, etc. are publically available on the [W.W. Norton "What's That Sound?" Spotify account](https://open.spotify.com/user/wwnorton-whats-that-sound)
+## :musical_note: Notes
+- Chapter titles, tracks, etc. are publically available on the [W.W. Norton "What's That Sound?" Spotify account](https://open.spotify.com/user/wwnorton-whats-that-sound)
+- Norton offers extended playlists that are not the focus here. 
+- There are a few minor errors in the Norton-provided playlists. 
+- The provided csv attempts to correct these errors.
+- Norton provides *excellent* additional resources to instructors and students like digital listening guides, etc. 
+- This is a hobby project and an organization tool. 
 
 ## :microphone: Why?
 Norton provides Spotify playlists for each chapter in the book. In order to keep myself organized for this new edition, I made a spreadsheet of each example including the direct Spotify url to the song. While the publisher playlists are a fantastic resource and I appreciate them immensely, I view them as a jumping-off point. In addition to the Norton lists, I wanted to organize specifically for my teaching context. I wanted to avoid the endless, mindless clicking that would require. I then discovered that Spotify has an API - thus Sheet Rock was born.   
